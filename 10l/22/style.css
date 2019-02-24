@@ -1,0 +1,9 @@
+body {
+  height: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-end; 
+}
+img {
+	height: 220px;
+}
